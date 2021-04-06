@@ -1,0 +1,5 @@
+1-Extract the folder  'Matlab Scripts'.
+2-Open and run 'GUIFunction.m', inside folder
+3-It will open up a dialog, click on 'change folder'
+4- Click on cancel(will result in error) or select a folder with sessions.
+5-Done! Use GUIFunction.m

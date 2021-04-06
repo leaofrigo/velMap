@@ -1,0 +1,9 @@
+ant:
+<ant>
+  <mkdir dir="C:\Users\Roberta\Desktop\Ricardo\Matlab scripts\VMT_for_Sontek_M9\for_redistribution" />
+  <mkdir dir="C:\Users\Roberta\Desktop\Ricardo\Matlab scripts\VMT_for_Sontek_M9\for_testing" />
+</ant>
+mcc -C -o VMT_for_Sontek_M9 -W WinMain:VMT_for_Sontek_M9 -T link:exe -d 'C:\Users\Roberta\Desktop\Ricardo\Matlab scripts\VMT_for_Sontek_M9\for_testing' -v 'C:\Users\Roberta\Desktop\Ricardo\Matlab scripts\VMT_for_Sontek_M9.m' 
+Test checkout of feature 'Compiler' failed.
+
+mcc failed.
